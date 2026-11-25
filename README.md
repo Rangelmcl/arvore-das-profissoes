@@ -1,1 +1,0 @@
-# arvore-das-profissoes
