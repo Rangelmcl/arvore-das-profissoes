@@ -1,4 +1,4 @@
 <img width="839" height="570" alt="image" src="https://github.com/user-attachments/assets/916f24af-6c99-40b6-8bf2-5994a6c16732" />
 <h2>Pesquisa das Profissões</h2>
 <p>A fim de compreender mais sobre a evolução das profissões da minha família e tentar prever o avanço da Inteligência Artificial nessas áreas, elaborei uma pesquisa do tema.</p>
-<button href="./pesquisa.md">Clique aqui para conhecer a Pesquisa</button>
+<a href="./pesquisa.md">Clique aqui para conhecer a Pesquisa</a>
